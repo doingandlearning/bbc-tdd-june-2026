@@ -1,6 +1,6 @@
 # TDD Primer 1 Day Workshop
 
-- Date: 26th March 2026
+- Date: 29th June 2026
 - Instructor: Kevin Cunningham
   - Email: kevin@kevincunningham.co.uk
   - Website: https://kevincunningham.co.uk
